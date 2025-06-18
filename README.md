@@ -1,6 +1,6 @@
 # **Exploratory Data Analysis of the NYC Public School System Before & After Covid** 
 
-# *Examining Patterns and Trends in Student Demogrpahics, Chronic Absenteeism, and Graduation Rate Data from 2015-2023*
+## *Examining Patterns and Trends in Student Demogrpahics, Chronic Absenteeism, and Graduation Rate Data from 2015-2023*
 ___
 
 ## Overview
