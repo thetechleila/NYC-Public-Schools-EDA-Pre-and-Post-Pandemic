@@ -5,7 +5,7 @@ ___
 
 ## Overview
 
-This analysis aims to find trends and patterns among the NYC Public School student population to determine factors that may contribute to or indicate higher/lower chances chronic absenteeism and how those factors may impact overall graduation rates.
+This exploratory data analysis aims to find possible trends and patterns among the NYC Public School student population to determine factors that may contribute to or indicate higher/lower chances chronic absenteeism and how those factors may impact overall graduation rates through comparing data from before and after the Covid-19 Pandemic.
 
 ___
 
