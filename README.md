@@ -1,4 +1,4 @@
-# **Exploratory Data Analysis of the NYC Public School System Before & After Covid** 
+# **Exploratory Data Analysis of the NYC Public School System Pre and Post Covid-19 Pandemic** 
 
 ## *Examining Patterns and Trends in Student Demogrpahics, Chronic Absenteeism, and Graduation Rate Data from 2015-2023*
 ___
