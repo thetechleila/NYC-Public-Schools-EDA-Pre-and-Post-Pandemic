@@ -1,5 +1,4 @@
-# Comprehensive EDA of the NYC Public School K-12 Educational Outcomes: 
-# *Before & After the Covid-19 Pandemic Lockdown (2015-2024)* 
+# EDA of the NYC Public School K-12 Educational Outcomes: Before & After the Covid-19 Pandemic Lockdown (2015-2024) 
 ___
 
 ## Project Overview
