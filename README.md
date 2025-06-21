@@ -1,12 +1,12 @@
-# **Exploratory Data Analysis of the NYC Public School System Pre and Post Covid-19 Pandemic** 
+# **Comprehensive EDA of the NYC K-12 Public School Student Outcomes: Before & After the Covid-19 Pandemic Lockdown** 
 
-## *Examining Patterns and Trends in Student Demogrpahics, Chronic Absenteeism, and Graduation Rate Data from 2015-2023*
 ___
 
-## Overview
+## Project Overview
 
-This exploratory data analysis aims to find possible trends and patterns among the NYC Public School student population to determine factors that may contribute to or indicate higher/lower chances chronic absenteeism and how those factors may impact overall graduation rates through comparing data from before and after the Covid-19 Pandemic.
+This exploratory data analysis aims to find insights, trends and patterns among the NYC Public School student population to determine which demographic and socio-economic factors/combinations of factors may have impacted educational outcomes.
 
+Data from before (pre-2020) and after the Covid-19 Lockdown will be compared to establish a baseline from which to evaluate changes from school year to school year (2015-2024)
 ___
 
 ## Data Sources
